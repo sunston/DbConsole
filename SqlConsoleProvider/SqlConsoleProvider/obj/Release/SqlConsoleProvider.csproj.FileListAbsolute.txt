@@ -1,0 +1,7 @@
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\bin\Release\SqlConsoleProvider.dll
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\bin\Release\SqlConsoleProvider.pdb
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\bin\Release\DbConsoleService.dll
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\bin\Release\DbConsoleService.pdb
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\obj\Release\ResolveAssemblyReference.cache
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\obj\Release\SqlConsoleProvider.dll
+I:\Проекты\SRC\SqlConsoleProvider\SqlConsoleProvider\obj\Release\SqlConsoleProvider.pdb

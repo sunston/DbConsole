@@ -1,0 +1,13 @@
+I:\Проекты\SRC\DbConsole\DbConsole\bin\Debug\DbConsole.exe.config
+I:\Проекты\SRC\DbConsole\DbConsole\bin\Debug\DbConsole.exe
+I:\Проекты\SRC\DbConsole\DbConsole\bin\Debug\DbConsole.pdb
+I:\Проекты\SRC\DbConsole\DbConsole\bin\Debug\DbConsoleService.dll
+I:\Проекты\SRC\DbConsole\DbConsole\bin\Debug\DbConsoleService.pdb
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\DbConsole.MainForm.resources
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\DbConsole.Properties.Resources.resources
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\DbConsole.exe
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\DbConsole.pdb
+I:\Проекты\SRC\DbConsole\DbConsole\obj\x86\Debug\DbConsole.ConnectionStringForm.resources

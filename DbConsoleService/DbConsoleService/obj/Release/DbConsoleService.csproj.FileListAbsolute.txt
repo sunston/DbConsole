@@ -1,0 +1,5 @@
+I:\Проекты\SRC\DbConsoleService\DbConsoleService\bin\Release\DbConsoleService.dll
+I:\Проекты\SRC\DbConsoleService\DbConsoleService\bin\Release\DbConsoleService.pdb
+I:\Проекты\SRC\DbConsoleService\DbConsoleService\obj\Release\ResolveAssemblyReference.cache
+I:\Проекты\SRC\DbConsoleService\DbConsoleService\obj\Release\DbConsoleService.dll
+I:\Проекты\SRC\DbConsoleService\DbConsoleService\obj\Release\DbConsoleService.pdb

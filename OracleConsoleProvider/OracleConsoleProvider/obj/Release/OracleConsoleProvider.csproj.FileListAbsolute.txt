@@ -1,0 +1,7 @@
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\bin\Release\OracleConsoleProvider.dll
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\bin\Release\OracleConsoleProvider.pdb
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\bin\Release\DbConsoleService.dll
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\bin\Release\DbConsoleService.pdb
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\obj\Release\ResolveAssemblyReference.cache
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\obj\Release\OracleConsoleProvider.dll
+I:\Проекты\SRC\OracleConsoleProvider\OracleConsoleProvider\obj\Release\OracleConsoleProvider.pdb

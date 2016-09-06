@@ -1,0 +1,7 @@
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\bin\Release\OdbcConsoleProvider.dll
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\bin\Release\OdbcConsoleProvider.pdb
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\bin\Release\DbConsoleService.dll
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\bin\Release\DbConsoleService.pdb
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\obj\Release\ResolveAssemblyReference.cache
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\obj\Release\OdbcConsoleProvider.dll
+I:\Проекты\SRC\OdbcConsoleProvider\OdbcConsoleProvider\obj\Release\OdbcConsoleProvider.pdb

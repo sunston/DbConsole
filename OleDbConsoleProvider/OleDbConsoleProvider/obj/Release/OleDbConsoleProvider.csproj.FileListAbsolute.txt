@@ -1,0 +1,7 @@
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\bin\Release\OleDbConsoleProvider.dll
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\bin\Release\OleDbConsoleProvider.pdb
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\bin\Release\DbConsoleService.dll
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\bin\Release\DbConsoleService.pdb
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\obj\Release\ResolveAssemblyReference.cache
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\obj\Release\OleDbConsoleProvider.dll
+I:\Проекты\SRC\OleDbConsoleProvider\OleDbConsoleProvider\obj\Release\OleDbConsoleProvider.pdb
